@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 460">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#202326"/>
+      <stop offset="1" stop-color="#343739"/>
+    </linearGradient>
+  </defs>
+  <rect width="310" height="460" fill="url(#background)"/>
+  <g fill="none" stroke="#9ef3fc" stroke-width="8" opacity=".8">
+    <rect x="91" y="145" width="128" height="112" rx="10"/>
+    <path d="m139 175 44 26-44 26z" fill="#9ef3fc" stroke="none"/>
+  </g>
+  <text x="155" y="300" fill="#f9d3b4" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">Poster unavailable</text>
+</svg>
